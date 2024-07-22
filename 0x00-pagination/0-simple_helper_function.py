@@ -1,5 +1,3 @@
-python
-Copy
 #!/usr/bin/env python3
 """
 Helper function to calculate the index range for pagination.
